@@ -24,7 +24,7 @@ A fixed mindset automatically assumes that skills and abilites are set in stone,
 
 ### Included Markdown Features
 | Feature | Use |
-| ------------ | ------------- |
+| --- | --- |
 | Different Headers | Used H2, H3, and H6 headers throughout |
 | Embedded Link | Included a link to my main github location |
 | Bulletized List | Included a bulletized list |
