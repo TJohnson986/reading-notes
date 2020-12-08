@@ -20,30 +20,14 @@ A fixed mindset automatically assumes that skills and abilites are set in stone,
 - **You'll watch others exceed and succeed**
   - See this as proof that you can succeed too, rather than a comparison of skills or abilites. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Included Markdown Features
+Feature | Use
+------------ | -------------
+Different Headers | Used H2, H3, and H6 headers throughout
+Embedded Link | Included a link to my main github location
+Bulletized List | Included a bulletized list
+Bold Text | Bolded the text of the bulletized list
+Created Table | Created table of included MD features
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TJohnson986/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
