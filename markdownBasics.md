@@ -6,5 +6,6 @@
     - Simple methods of adding images and links, some even automatic 
     - There are even different lists, quotes, and inline code options
     
-- **These quick and easy formatting options allow for simple notes and references for GitHub projects
+- **These quick and easy formatting options allow for simple notes and references for GitHub projects**
   - Links, images, and inline code are all very useful for quick information and verification
+  - Separating sections of information with different headers and font styles allow for easy reading 
