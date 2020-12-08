@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Tyler's Reading Notes
 
-You can use the [editor on GitHub](https://github.com/TJohnson986/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###### A little about me:
+I can't say that I have much of an idea of what I am doing yet, but I'm definitely eager to continue learning. You can check out more of what I'm working on [here]https://tjohnson986.github.io/
 
 ### Markdown
 
