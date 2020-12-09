@@ -1,8 +1,8 @@
 # Reading notes for Text Editors and Command Line
 
 ## Table of Contents
-*[Text Editors](# Text Editors) 
-*[CLI Notes](# CLI Notes)
+[Text Editors](# 'Text Editors') 
+[CLI Notes](# 'CLI Notes')
 
 ###### Text Editors
 I didn't realize just how many text editors there were, nor did I realize the features that they may include. The features that I thought were important include:
