@@ -19,3 +19,20 @@ Extensions are additional plugins that allow more functionality beyond the text 
 
 
 ###### CLI Notes
+- Bash stands for Bourne again shell
+- pwd = Print Working Directory
+- ls = List
+  - ls can include options and locations
+  - i.e. ls [option] [location]
+- Absolute path = full path from root
+- Relative path = path based on current position in system
+- ~ = shortcut to home directory
+  - i.e. if home directory is /home/tyler, then ~/Documents is the same as /home/tyler/Documents
+- . = references current directory
+- .. = references parent directory, can jump up multiple levels by using ../../
+- cd = change directory
+  - if you use cd without arguments it will take you back to the home directory
+
+- Linux doesn't rely on file extensions
+- Linux is case sensitive. File1.txt and file1.txt are seen as different, unique files
+
