@@ -1,0 +1,21 @@
+# Reading notes for Text Editors and Command Line
+
+## Table of Contents
+
+###### Text Editors
+I didn't realize just how many text editors there were, nor did I realize the features that they may include. The features that I thought were important include:
+- Code completion
+- Highlighting
+- Variety of themes
+- Extensions for additional features
+
+Code completion suggests possible code options as you type, which could help speed up writing code in general and also help reduce typos. 
+
+Syntax Highlighting colorizes different elements of code to show separation, making it easier to identify the various elements that are making up the code as well as errors within those elements. 
+
+A variety of themes allow for the customization of background colors, text colors, etc. to make code easier to read, but also help reduce eye fatigue from bright screens. 
+
+Extensions are additional plugins that allow more functionality beyond the text editor, possibly bridging across different tools. 
+
+
+###### CLI Notes
