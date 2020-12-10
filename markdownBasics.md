@@ -1,5 +1,7 @@
 ## Here are a few notes on the basics of Markdown:
 
+[Home](https://tjohnson986.github.io/reading-notes/)
+
 ###### Markdown is a simple way of styling and organizing text in GitHub
   - **Essentially, Markdown is plain text with a few non-alphanumeric characters**
     - There are basic text formatting such as bold, italic, etc. 
