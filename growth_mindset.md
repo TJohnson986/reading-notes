@@ -1,7 +1,7 @@
 [Home](https://tjohnson986.github.io/reading-notes/)
 
 ###### A little about me:
-I can't say that I have much of an idea of what I am doing yet, but I'm definitely eager to continue learning. You can check out more of what I'm working on [here](https://tjohnson986.github.io/)
+I can't say that I have much of an idea of what I am doing yet, but I'm definitely eager to continue learning. You can check out more of what I'm working on [here](https://tjohnson986.github.io/reading-notes/)
 
 ### Growth Mindset
 It's incredibly important to maintain a growth mindset when learning something completely new, rather than approaching with a fixed mindset. 
