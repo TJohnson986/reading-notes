@@ -1,3 +1,5 @@
+[Home](readme.md)
+
 ###### A little about me:
 I can't say that I have much of an idea of what I am doing yet, but I'm definitely eager to continue learning. You can check out more of what I'm working on [here](https://tjohnson986.github.io/)
 
