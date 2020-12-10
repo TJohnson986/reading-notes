@@ -1,5 +1,5 @@
 ## Git Basics
-[Phone Home](readme.md)
+[Home](https://tjohnson986.github.io/reading-notes/)
 
 #### Table of Contents
 1. List of Git commands
