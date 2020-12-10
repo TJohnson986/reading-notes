@@ -1,5 +1,7 @@
 # Reading notes for Text Editors and Command Line
 
+[Home](https://tjohnson986.github.io/reading-notes/)
+
 ## Table of Contents
 - [Text Editors](#Text-Editors) 
 - [CLI Notes](#CLI-Notes)
