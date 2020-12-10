@@ -3,6 +3,7 @@
 
 #### Table of Contents
 1. List of Git commands
+1. Closing Thoughts
 
 ###### List of Git Commands
 - Git Status - review current status of your files
@@ -17,3 +18,7 @@
 - Git fetch - Are there changes between local repo and GitHub repo
 - Git status - Shows # of commits behind
 - Git Pull - Syncs changes to local repo
+
+
+###### Closing Thoughts
+This has been a good class! I'm glad to see everything work together and what I do actually work. I've been able to create a new page for today's notes, make changes to it and push it to GitHub all from VSCode and Terminal! Pretty legit. 
