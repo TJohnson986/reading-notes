@@ -7,3 +7,16 @@
 - Main: Main content sections with headers, images, links, groups of related content
 - Footer: Base of body that may have more naviation, copyright info, etc. 
 - Body: Full visible webpage and included elements. 
+
+#### Basic HTML Tags
+- <body>
+- <section>
+- <head>
+- <header>
+- <p>
+- <h1>
+- <img>
+- <img scr= "URL">
+- <footer>
+- <a href="URL">link text</a>
+- <title>
