@@ -7,4 +7,5 @@
 1. [Markdown Basics](markdownBasics.md)
 1. [Text Editors](text_editors_CLI.md)
 1. [Git Notes](git_notes.md)
+1. [HTML Notes](HTML-notes.md)
 
