@@ -2,8 +2,8 @@
 [Home](https://tjohnson986.github.io/reading-notes/)
 
 #### Table of Contents
-- [Basic Definitions](# Basic-Definitions)
-- [Basic HTML Tags](# Basic-HTML-Tags)
+- [Basic Definitions](#Basic-Definitions)
+- [Basic HTML Tags](#Basic-HTML-Tags)
 - [Reading Notes](#Reading-notes)
 
 #### Basic Definitions
