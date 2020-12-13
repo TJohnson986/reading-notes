@@ -8,4 +8,5 @@
 1. [Text Editors](text_editors_CLI.md)
 1. [Git Notes](git_notes.md)
 1. [HTML Notes](HTML-notes.md)
+1. [JavaScript notes](JavaScript-notes.md)
 
