@@ -2,9 +2,9 @@
 [Home](https://tjohnson986.github.io/reading-notes/)
 
 #### Table of Contents
--[Terminology](#Terminology)
--[Reading Notes](#Reating-Notes)
--[Variable Rules](#Variable-Rules)
+- [Terminology](#Terminology)
+- [Reading Notes](#Reating-Notes)
+- [Variable Rules](#Variable-Rules)
 
 #### Terminology
 - Document - The document object is the whole webpage. All browsers use it
