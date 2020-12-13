@@ -9,4 +9,5 @@
 1. [Git Notes](git_notes.md)
 1. [HTML Notes](HTML-notes.md)
 1. [JavaScript notes](JavaScript-notes.md)
+1. [How Computers Work](How-Computers-Work.md)
 
