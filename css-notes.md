@@ -2,8 +2,8 @@
 [Home](https://tjohnson986.github.io/reading-notes/)
 
 #### Table of Contents
-[Chapter 10](#Chapter-10)
-[Chapter 11](#Chapter-11)
+- [Chapter 10](#Chapter-10)
+- [Chapter 11](#Chapter-11)
 
 #### Chapter 10
 The key to CSS is to see a box around each HTML element. CSS allows you to create rules that control the presentation of the individual box and what's inside the box. 
