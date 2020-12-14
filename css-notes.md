@@ -14,3 +14,9 @@ CSS rule precedence is determined by top to bottom order, meaning that if there 
 
 There are online tools to allow testing a page in multple browsers and versions across platforms. 
 
+#### Chapter 11
+Each HTML element is a box, and the background-color property sets the background color for that box. 
+
+There are a few ways to identify colors: RGB values, Hex codes, and color names. Hues, Saturation, and Brightness can also all be specificed, too. 
+
+CSS3 introduced opacity to RGB, and HSL Colors. HSL colors are specified using hue, saturation, and lightness values. There are color picker tools that help choose complementary colors and themes. 
