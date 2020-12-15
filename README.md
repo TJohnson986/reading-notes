@@ -11,4 +11,5 @@
 1. [CSS Notes](css-notes.md)
 1. [JavaScript notes](JavaScript-notes.md)
 1. [How Computers Work](How-Computers-Work.md)
+1. [JavaScript Programming](programming-javascript.md)
 
