@@ -17,7 +17,7 @@ There are many different types of Operators in JavaScript, the first are **Compa
 
 There are also **Logical Operators:**
 - && Logical and - this tests more than one condition
-- || Logical or - this tests at least one condition
+- \|| Logical or - this tests at least one condition
 - ! Logical Not - this takes a single Boolean value and inverts it to the opposite. 
 
 #### Loops
