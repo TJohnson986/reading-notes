@@ -12,4 +12,5 @@
 1. [JavaScript notes](JavaScript-notes.md)
 1. [How Computers Work](How-Computers-Work.md)
 1. [JavaScript Programming](programming-javascript.md)
+1. [Operators and Loops](Operators-Loops.md)
 
