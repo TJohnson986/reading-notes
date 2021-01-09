@@ -2,6 +2,23 @@
 
 *I'm eager to learn this whole new world that's ahead of me to change careers into software development. I'm excited for the opportunities that it presents for flexibility and better pay!*
 
+**The pages below contain my notes from course related readings, assignments, lectures, etc.**
+
+### Code 201 Reading Notes
+#### Table of Contents
+1. [Future Reading](future_reading.md)
+1. [Future Reading](future_reading.md)
+1. [Future Reading](future_reading.md)
+1. [Future Reading](future_reading.md)
+1. [Future Reading](future_reading.md)
+1. [Future Reading](future_reading.md)
+1. [Future Reading](future_reading.md)
+1. [Future Reading](future_reading.md)
+1. [Future Reading](future_reading.md)
+1. [Future Reading](future_reading.md)
+
+
+### Code 102 Reading Notes
 #### Table of Contents
 1. [Growth Mindset](growth_mindset.md)
 1. [Markdown Basics](markdownBasics.md)
@@ -13,4 +30,3 @@
 1. [How Computers Work](How-Computers-Work.md)
 1. [JavaScript Programming](programming-javascript.md)
 1. [Operators and Loops](Operators-Loops.md)
-
