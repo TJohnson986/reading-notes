@@ -6,8 +6,8 @@
 
 ### Code 201 Reading Notes
 #### Table of Contents
-1. [Future Reading 1](future_reading_1.md)
-1. [Future Reading 2](future_reading_2.md)
+1. [Class 01 Reading Notes](class-01.md)
+1. [Class 02 Reading Notes](class-02.md)
 1. [Future Reading 3](future_reading_3.md)
 1. [Future Reading 4](future_reading_4.md)
 1. [Future Reading 5](future_reading_5.md)
