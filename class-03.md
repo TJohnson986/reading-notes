@@ -1,4 +1,4 @@
-## Class 01 Reading Notes
+## Class 03 Reading Notes
 [Home](https://tjohnson986.github.io/reading-notes/)
 
 #### Table of Contents
