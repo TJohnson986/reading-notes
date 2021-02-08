@@ -8,8 +8,8 @@
 #### Table of Contents
 1. [Class 01 Reading Notes](class-01.md)
 1. [Class 02 Reading Notes](class-02.md)
-1. [Future Reading 3](class-03.md)
-1. [Future Reading 4](class-04.md)
+1. [Class 03 Reading Notes](class-03.md)
+1. [Class 04 Reading Notes](class-04.md)
 1. [Future Reading 5](future_reading_5.md)
 1. [Future Reading 6](future_reading_6.md)
 1. [Future Reading 7](future_reading_7.md)
