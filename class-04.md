@@ -4,6 +4,7 @@
 #### Table of Contents
 1. HTML Links
 1. CSS Layouts
+1. JS Functions, Methods, Objects
 
 
 #### HTML Links
@@ -46,3 +47,11 @@ These elements can sit inside each other and be considered containng or parent e
 - Absolute positioning: Positions element in relation to it's containing element. 
 
 
+#### JS Functions, Methods, Objects
+Functions and methods - Functions consist of a series of statements that perform a specific task. Methods are same as functions except that they are created inside an object. 
+
+Objects - made up of properties and methods
+
+A function is declared by giving it a name, then writing the statements of the function within sets of curly braces. 
+
+A function is called by using the function name followed by parenthesis. Parameters can be entered into the function by entering them into the parenthesis. 
