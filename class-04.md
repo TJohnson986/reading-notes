@@ -3,6 +3,7 @@
 
 #### Table of Contents
 1. HTML Links
+1. CSS Layouts
 
 
 #### HTML Links
@@ -30,4 +31,18 @@ To open a link in a new window, use target=_blank" after the URL.
 To link to a different part of the same page, you can utilize HTML id attribute and HTML elements. 
 
 
-s
+#### CSS Layouts
+**CSS treats each HTML element as if it's in it's own box. This box will either be block-level or inline.**
+
+Block level start on a new line and act as the main building blocks.
+
+Inline flow between surrounding text. 
+
+These elements can sit inside each other and be considered containng or parent elements.
+
+**CSS has positioning schemes -** 
+- Normal flow: block-level elements are always a new line, never next to each other
+- Relative Positioning: Moves an element from the normal flow, shifting it a certain direction without affecting other nearby elements. 
+- Absolute positioning: Positions element in relation to it's containing element. 
+
+
