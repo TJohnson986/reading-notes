@@ -10,7 +10,7 @@
 1. [Class 02 Reading Notes](class-02.md)
 1. [Class 03 Reading Notes](class-03.md)
 1. [Class 04 Reading Notes](class-04.md)
-1. [Future Reading 5](future_reading_5.md)
+1. [Class 05 Reading Notes](class-05.md)
 1. [Future Reading 6](future_reading_6.md)
 1. [Future Reading 7](future_reading_7.md)
 1. [Future Reading 8](future_reading_8.md)
