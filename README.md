@@ -8,6 +8,7 @@
 #### Table of Contents
 1. [ES6 Classes](./code301/ES6_classes.md)
 1. [Class 01 Reading Notes](/code301/class-01.md)
+1. [Class 02 Reading Notes](/code301/class-02.md)
 
 
 ### Code 201 Reading Notes
