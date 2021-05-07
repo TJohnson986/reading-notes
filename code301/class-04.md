@@ -13,7 +13,7 @@
 
 
 #### Conditional (Ternary) Operator
-- Why would we use a ternary operator?
+- Why would we use a ternary operator? *in place of if/else statements to simplify a block of code to less lines*
 - Rewrite the following statement using a ternary statement:
         if(x===y){
       console.log(true);
