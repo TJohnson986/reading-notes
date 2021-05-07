@@ -11,6 +11,7 @@
 1. [Class 02 Reading Notes](/code301/class-02.md)
 1. [Class 03 Reading Notes](/code301/class-03.md)
 1. [Class 04 Reading Notes](/code301/class-04.md)
+1. [Class 05 Reading Notes](/code301/class-05.md)
 
 
 ### Code 201 Reading Notes
