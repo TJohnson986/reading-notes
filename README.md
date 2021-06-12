@@ -4,6 +4,10 @@
 
 **The pages below contain my notes from course related readings, assignments, lectures, etc.**
 
+### Code 401 Reading Notes
+#### Table of Contents
+1. [Pre-Work](./code401/Pre-Work.md)
+
 ### Code 301 Reading Notes
 #### Table of Contents
 1. [ES6 Classes](./code301/ES6_classes.md)
