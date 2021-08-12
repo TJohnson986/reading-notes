@@ -7,6 +7,8 @@
 ### Code 401 Reading Notes
 #### Table of Contents
 1. [Pre-Work](./code401/Pre-Work.md)
+1. [Class 38: Redux Async](./code401/Redux-Async.md)
+1. [Class 41: React Native](./code401/React-Native.md)
 
 ### Code 301 Reading Notes
 #### Table of Contents
