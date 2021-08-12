@@ -7,9 +7,6 @@
 
 ## React Native
 
-#### 
-
 *Compare and Contrast Redux toolkit with Redux Ducks*
 
 *What is the principle advantage of Redux Toolkit*
-
